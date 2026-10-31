@@ -4,9 +4,14 @@ GIST 604B Assignment 2: QGIS Desktop GIS Projects
 Overview
 This repository demonstrates my work done in practicing GIS dataprocessing skills using the desktop QGIS application. This includes applying previous skills to a new software, including cartography, working with projections and coordinate systems, joins and queries, vector and raster analysis, and importing data. 
 
+
+
 Software Environment
+
 QGIS Version Desktop 4.2.3
+
 Windows Operating System
+
 
 
 Completed Tutorials
